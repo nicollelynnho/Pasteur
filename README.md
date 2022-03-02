@@ -12,7 +12,7 @@ This project tracks the growth and division of microcolonies of Mycobacterium sm
 Your description is an extremely important aspect of your project. A well-crafted description allows you to show off your work to other developers as well as potential employers.
 
 Analysis and Results:
-View the PDF for a flow chart of how the technologies work together. 
+View nho_pasteur_poster_resize.pdf for a flow chart of how the technologies work together. 
 
 Conclusions:
 Cell Visualization tool reads a folder of data files, maps the chamber, and writes a .csv with file name, cell location, and distance from center. Exponential Bacteria Growth tool reads bacterial movies, estimates exponential fit, and graphs total growth and rate. The Python tools automate and accelerate analysis, and can be applied to other TB research.
