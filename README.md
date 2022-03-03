@@ -17,10 +17,3 @@ View nho_pasteur_poster_resize.pdf for a flow chart of how the technologies work
 Conclusions:
 Cell Visualization tool reads a folder of data files, maps the chamber, and writes a .csv with file name, cell location, and distance from center. Exponential Bacteria Growth tool reads bacterial movies, estimates exponential fit, and graphs total growth and rate. The Python tools automate and accelerate analysis, and can be applied to other TB research.
 
-Credits:
-- Giulia Manina
-- Maxime Mistretta
-- G5-IMI Lab
-- Dani Brake
-- Adrian Rocha
-- Pasteur Foundation v  ND Career Center
