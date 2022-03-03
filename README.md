@@ -9,11 +9,11 @@ Tuberculosis (TB) is a deadly infectious disease caused by Mycobacterium tubercu
 
 Description:
 This project tracks the growth and division of microcolonies of Mycobacterium smegmatis, a TB model. cell_vis.py creates a map of the microfluidic cell microchamber. exp_growth.py organizes the microcolony growth data automatically in Python, and it fit exponential curves to microcolony growth data to calculate the growth rate.
-Your description is an extremely important aspect of your project. A well-crafted description allows you to show off your work to other developers as well as potential employers.
+
 
 Analysis and Results:
 View nho_pasteur_poster_resize.pdf for a flow chart of how the technologies work together. 
 
 Conclusions:
-Cell Visualization tool reads a folder of data files, maps the chamber, and writes a .csv with file name, cell location, and distance from center. Exponential Bacteria Growth tool reads bacterial movies, estimates exponential fit, and graphs total growth and rate. The Python tools automate and accelerate analysis, and can be applied to other TB research.
+cell_vis.py reads a folder of data files, maps the chamber, and writes a .csv with file name, cell location, and distance from center. exp_growth.py reads bacterial movies, estimates exponential fit, and graphs total growth and rate. The Python tools automate and accelerate analysis, and can be applied to other TB research.
 
