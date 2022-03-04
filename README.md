@@ -12,7 +12,8 @@ This project tracks the growth and division of microcolonies of Mycobacterium sm
 
 
 Analysis and Results:
-View nho_pasteur_poster_resize.pdf for a flow chart of how the technologies work together. 
+- Download nho_pasteur_poster_resize.pdf for a flow chart of how the technologies work together
+- Automated data processing for tuberculosis growth experiments reducing processing time by 99%
 
 Conclusions:
 cell_vis.py reads a folder of data files, maps the chamber, and writes a .csv with file name, cell location, and distance from center. exp_growth.py reads bacterial movies, estimates exponential fit, and graphs total growth and rate. The Python tools automate and accelerate analysis, and can be applied to other TB research.
