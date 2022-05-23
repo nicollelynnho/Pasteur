@@ -18,3 +18,4 @@ Analysis and Results:
 Conclusions:
 cell_vis.py reads a folder of data files, maps the chamber, and writes a .csv with file name, cell location, and distance from center. exp_growth.py reads bacterial movies, estimates exponential fit, and graphs total growth and rate. The Python tools automate and accelerate analysis, and can be applied to other TB research.
 
+![image](https://user-images.githubusercontent.com/58828437/169741087-f0f991a6-2558-4c7d-aee0-96fb55f659ad.png)
